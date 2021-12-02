@@ -56,7 +56,7 @@ resources:
 Restart home-assistant.
 
 ## Using
-The icons uses the prefix `pap:`.
+The icons use the prefix `pap:`. They are compatible with the icon picker, so you can search for them in the entity configuration UI by typing `pap:` into the box.
 
 Example:
 
