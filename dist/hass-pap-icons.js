@@ -69,6 +69,8 @@ async function getIcon(name) {
   return { path: PAP_ICONS_MAP[name] };
 }
 
+// assume modern style
+let pap_icons_mode = 'modern';
 window.customIconsets = window.customIconsets || {};
 window.customIconsets["pap"] = getIcon;
 
@@ -85,4 +87,12 @@ if (!window.frontendVersion || window.frontendVersion < 20200519.0) {
 
   iconset.innerHTML = `<svg><defs>${iconsetHTML}</defs></svg>`;
   document.body.appendChild(iconset);
+
+  pap_icons_mode = 'legacy';
 }
+
+console.info(
+  `%c HASS-PAP-ICONS         \n%c Version 1.1 [` + pap_icons_mode + `] `,
+  "color: orange; font-weight: bold; background: black",
+  "color: white; font-weight: bold; background: dimgray"
+);
