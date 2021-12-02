@@ -66,12 +66,7 @@ const PAP_ICONS_MAP = {
 
 // Iconset API (Home Assistant 0.110 and up):
 async function getIcon(name) {
-  var primaryPath = PAP_ICONS_MAP[name];
-  return {
-    path: primaryPath,
-    viewBox: "0 0 24 24"
-  };
-return { path: PAP_ICONS_MAP[name] };
+  return { path: PAP_ICONS_MAP[name] };
 }
 
 window.customIconsets = window.customIconsets || {};
