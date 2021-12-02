@@ -64,15 +64,20 @@ const PAP_ICONS_MAP = {
 
 };
 
+// assume modern style
 // Iconset API (Home Assistant 0.110 and up):
 async function getIcon(name) {
   return { path: PAP_ICONS_MAP[name] };
 }
 
-// assume modern style
 let pap_icons_mode = 'modern';
 window.customIconsets = window.customIconsets || {};
 window.customIconsets["pap"] = getIcon;
+
+// prepare for picker style
+async function getIconList() {
+  return Object.keys(PAP_ICONS_MAP).map(icon => ({name: icon}));
+}
 
 if (!window.frontendVersion || window.frontendVersion < 20200519.0) {
   // ha-iconset-svg (Up to Home Assistant 0.109):
@@ -89,6 +94,10 @@ if (!window.frontendVersion || window.frontendVersion < 20200519.0) {
   document.body.appendChild(iconset);
 
   pap_icons_mode = 'legacy';
+} else if(window.frontendVersion > 20211027.0) {
+  // new enough to support getIcon and getIconlist
+  pap_icons_mode = 'picker';
+  window.customIcons["pap"] = { getIcon, getIconList };
 }
 
 console.info(
