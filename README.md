@@ -32,6 +32,11 @@ Custom icon pack designed for Home Assistant containing icons for Philips Air Pu
 ![Preview](./svg/iai.svg) iai<br />
 ![Preview](./svg/wifi.svg) wifi<br />
 ![Preview](./svg/reset.svg) reset<br />
+![Preview](./svg/circulate.svg) circulate<br />
+![Preview](./svg/clean.svg) clean<br />
+![Preview](./svg/mode.svg) mode<br />
+![Preview](./svg/pm25b.svg) pm25b<br />
+![Preview](./svg/rotate.svg) rotate<br />
 
 
 ## Install
