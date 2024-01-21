@@ -9,40 +9,39 @@ Custom icon pack designed for Home Assistant containing icons for Philips Air Pu
 | icon                                | name               |
 |-------------------------------------|--------------------|
 | ![Preview](./svg/power_button.svg)  | power_button       |
-
-![Preview](./svg/child_lock_button.svg) child_lock_button<br />
-![Preview](./svg/auto_mode_button.svg) auto_mode_button<br />
-![Preview](./svg/fan_speed_button.svg) fan_speed_button<br />
-![Preview](./svg/humidity_button.svg) humidity_button<br />
-![Preview](./svg/light_dimming_button.svg) light_dimming_button<br />
-![Preview](./svg/two_in_one_mode_button.svg) two_in_one_mode_button<br />
-![Preview](./svg/timer_reset_button.svg) timer_reset_button<br />
-![Preview](./svg/sleep_mode.svg) sleep_mode<br />
-![Preview](./svg/auto_mode.svg) auto_mode<br />
-![Preview](./svg/speed_1.svg) speed_1<br />
-![Preview](./svg/speed_2.svg) speed_2<br />
-![Preview](./svg/speed_3.svg) speed_3<br />
-![Preview](./svg/allergen_mode.svg) allergen_mode<br />
-![Preview](./svg/purification_only_mode.svg) purification_only_mode<br />
-![Preview](./svg/two_in_one_mode.svg) two_in_one_mode<br />
-![Preview](./svg/bacteria_virus_mode.svg) bacteria_virus_mode<br />
-![Preview](./svg/nanoprotect_filter.svg) nanoprotect_filter<br />
-![Preview](./svg/filter_replacement.svg) filter_replacement<br />
-![Preview](./svg/water_refill.svg) water_refill<br />
-![Preview](./svg/prefilter_cleaning.svg) prefilter_clearning<br />
-![Preview](./svg/prefilter_wick_cleaning.svg) prefilter_wick_cleaning<br />
-![Preview](./svg/pm25.svg) pm25<br />
-![Preview](./svg/iai.svg) iai<br />
-![Preview](./svg/wifi.svg) wifi<br />
-![Preview](./svg/reset.svg) reset<br />
-![Preview](./svg/circulate.svg) circulate<br />
-![Preview](./svg/clean.svg) clean<br />
-![Preview](./svg/mode.svg) mode<br />
-![Preview](./svg/pm25b.svg) pm25b<br />
-![Preview](./svg/rotate.svg) rotate<br />
-![Preview](./svg/oscillate.svg) oscillate<br />
-![Preview](./svg/heating.svg) heating<br />
-![Preview](./svg/gas.svg) gas<br />
+| ![Preview](./svg/child_lock_button.svg) | child_lock_button |
+| ![Preview](./svg/auto_mode_button.svg) | auto_mode_button |
+| ![Preview](./svg/fan_speed_button.svg) | fan_speed_button |
+| ![Preview](./svg/humidity_button.svg)  |humidity_button |
+| ![Preview](./svg/light_dimming_button.svg) | light_dimming_button |
+| ![Preview](./svg/two_in_one_mode_button.svg) | two_in_one_mode_button |
+| ![Preview](./svg/timer_reset_button.svg) | timer_reset_button |
+| ![Preview](./svg/sleep_mode.svg) | sleep_mode |
+| ![Preview](./svg/auto_mode.svg)  | auto_mode |
+| ![Preview](./svg/speed_1.svg)    | speed_1 |
+| ![Preview](./svg/speed_2.svg)    | speed_2 |
+| ![Preview](./svg/speed_3.svg)    | speed_3 |
+| ![Preview](./svg/allergen_mode.svg) | allergen_mode |
+| ![Preview](./svg/purification_only_mode.svg) | purification_only_mode |
+| ![Preview](./svg/two_in_one_mode.svg) | two_in_one_mode |
+| ![Preview](./svg/bacteria_virus_mode.svg) | bacteria_virus_mode |
+| ![Preview](./svg/nanoprotect_filter.svg)  | nanoprotect_filter |
+| ![Preview](./svg/filter_replacement.svg)  | filter_replacement |
+| ![Preview](./svg/water_refill.svg)        | water_refill |
+| ![Preview](./svg/prefilter_cleaning.svg)  | prefilter_clearning |
+| ![Preview](./svg/prefilter_wick_cleaning.svg) | prefilter_wick_cleaning |
+| ![Preview](./svg/pm25.svg) | pm25 |
+| ![Preview](./svg/iai.svg)  | iai |
+| ![Preview](./svg/wifi.svg) | wifi |
+| ![Preview](./svg/reset.svg) | reset |
+| ![Preview](./svg/circulate.svg) | circulate |
+| ![Preview](./svg/clean.svg) | clean |
+| ![Preview](./svg/mode.svg) | mode |
+| ![Preview](./svg/pm25b.svg) | pm25b |
+| ![Preview](./svg/rotate.svg) | rotate |
+| ![Preview](./svg/oscillate.svg) | oscillate |
+| ![Preview](./svg/heating.svg)   | heating |
+| ![Preview](./svg/gas.svg)       |gas |
 
 
 ## Install
