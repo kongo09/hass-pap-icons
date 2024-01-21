@@ -6,11 +6,9 @@ Custom icon pack designed for Home Assistant containing icons for Philips Air Pu
 
 ## Content
 
----------------------------------------------------------
-| icon                             | name               |
----------------------------------------------------------
-| ![Preview](./svg/power_button.svg) | power_button |
----------------------------------------------------------
+| icon                                | name               |
+|-------------------------------------|--------------------|
+| ![Preview](./svg/power_button.svg)  | power_button       |
 
 ![Preview](./svg/child_lock_button.svg) child_lock_button<br />
 ![Preview](./svg/auto_mode_button.svg) auto_mode_button<br />
