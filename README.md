@@ -25,6 +25,7 @@ Custom icon pack designed for Home Assistant containing icons for Philips Air Pu
 | ![Preview](./svg/purification_only_mode.svg) | purification_only_mode |
 | ![Preview](./svg/two_in_one_mode.svg) | two_in_one_mode |
 | ![Preview](./svg/bacteria_virus_mode.svg) | bacteria_virus_mode |
+| ![Preview](./svg/pollution_mode.svg)      | pollution_mode |
 | ![Preview](./svg/nanoprotect_filter.svg)  | nanoprotect_filter |
 | ![Preview](./svg/filter_replacement.svg)  | filter_replacement |
 | ![Preview](./svg/water_refill.svg)        | water_refill |
