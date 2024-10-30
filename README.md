@@ -14,6 +14,7 @@ Custom icon pack designed for Home Assistant containing icons for Philips Air Pu
 | ![Preview](./svg/fan_speed_button.svg) | fan_speed_button |
 | ![Preview](./svg/humidity_button.svg)  |humidity_button |
 | ![Preview](./svg/light_dimming_button.svg) | light_dimming_button |
+| ![Preview](./svg/light_function.svg) | light_function |
 | ![Preview](./svg/two_in_one_mode_button.svg) | two_in_one_mode_button |
 | ![Preview](./svg/timer_reset_button.svg) | timer_reset_button |
 | ![Preview](./svg/sleep_mode.svg) | sleep_mode |
