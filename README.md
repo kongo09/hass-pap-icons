@@ -10,6 +10,7 @@ Custom icon pack designed for Home Assistant containing icons for Philips Air Pu
 |-------------------------------------|--------------------|
 | ![Preview](./svg/power_button.svg)  | power_button       |
 | ![Preview](./svg/child_lock_button.svg) | child_lock_button |
+| ![Preview](./svg/child_lock_button_open.svg) | child_lock_button_open |
 | ![Preview](./svg/auto_mode_button.svg) | auto_mode_button |
 | ![Preview](./svg/fan_speed_button.svg) | fan_speed_button |
 | ![Preview](./svg/humidity_button.svg)  |humidity_button |
@@ -44,6 +45,10 @@ Custom icon pack designed for Home Assistant containing icons for Philips Air Pu
 | ![Preview](./svg/oscillate.svg) | oscillate |
 | ![Preview](./svg/heating.svg)   | heating |
 | ![Preview](./svg/gas.svg)       |gas |
+| ![Preview](./svg/temp_low.svg)       |temp_low |
+| ![Preview](./svg/temp_medium.svg)       |temp_medium |
+| ![Preview](./svg/temp_high.svg)       |temp_high |
+| ![Preview](./svg/circle.svg) | circle |
 
 
 ## Install
